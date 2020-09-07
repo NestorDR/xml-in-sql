@@ -1,0 +1,7 @@
+# edition
+.idea/
+.vscode/
+
+# databases
+*.mdf
+*.ldf
